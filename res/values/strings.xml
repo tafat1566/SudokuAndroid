@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjetSudoko</string>
+    <string name="play_music_btn">Joeur le son</string>
+    <string name="jouer_music_btn">playe sound</string>
+    <string name="pause_music_btn">Mettre en pause le son</string>
+    <string name="jour_music_btn">Jouer le sons</string>
+</resources>

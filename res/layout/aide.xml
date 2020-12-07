@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@drawable/with"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/Aide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="
+Les règles du sudoku sont très simples. Un sudoku classique contient neuf lignes et neuf colonnes, donc 81 cases au total.
+
+Le but du jeu est de remplir ces cases avec des chiffres allant de 1 à 9 en veillant toujours à ce qu'un même chiffre ne figure qu'une seule fois par colonne, une seule fois par ligne, et une seule fois par carré de neuf cases.
+
+Au début du jeu, une vingtaine de chiffres sont déjà placés et il vous reste à trouver les autres. En effet, une grille initiale de sudoku correctement constituée ne peut aboutir qu'à une et une seule solution. Pour trouver les chiffres manquants, tout est une question de logique et d'observation.
+
+De nombreuses variantes peuvent être apportées au sudoku classique (aussi appelé 9x9), ne serait-ce qu'en modifiant le nombre de lignes et de colonnes. Vous pouvez ainsi trouver sur Le Sudoku toute la combinaison des grilles en allant du sudoku enfant 4x4 au sudoku géant 12x12.
+
+Pour vous faciliter la tâche, nous vous détaillons certaines techniques facilement assimilables : grâce à elles vous pourrez visualiser plus rapidement les solutions, et réussir vos sudokus !" />
+</LinearLayout>
